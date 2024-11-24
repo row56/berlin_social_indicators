@@ -1,5 +1,11 @@
-1) Unzip
-2) In a web browser, open the file index.html from the directory singlehtml
+## Group Project: Visualizing and analyzing social indicators in Berlin
+
+To check out the project report, please download the whole repository and open singlehtml/index.html
+Code in Python and R
+
+Data sources:
+- https://daten.berlin.de
+- https://odis-berlin.de/ressourcen/
 
 In jupyter-execute, you find the jupyter notebooks with the code used to create the visualizations
 

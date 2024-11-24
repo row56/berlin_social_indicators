@@ -1,5 +1,7 @@
 ## Group Project: Visualizing and analyzing social indicators in Berlin
 
+by Robert Wienröder, Christian Tesch, Leon Ostermann
+
 To check out the project report, please download the whole repository and open singlehtml/index.html
 Code in Python and R
 
